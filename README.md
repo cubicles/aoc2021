@@ -1,3 +1,3 @@
 # aoc2021
 
-![aoc_placeholder](https://github.com/cubicles/aoc2021/blob/main/aoc_xmas.jpeg = 300x)
+<img src="https://github.com/cubicles/aoc2021/blob/main/aoc_xmas.jpeg" width="200">
