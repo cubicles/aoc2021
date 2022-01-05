@@ -1,3 +1,4 @@
+
 # aoc2021
 
 We are migrating to Vim! 
@@ -6,5 +7,5 @@ Starting 2022, advent of code will be completed using Vim and .py files instead 
 ### https://adventofcode.com/2021
 
 <p align="center">
-<img src="https://github.com/cubicles/aoc2021/blob/main/aoc3.png" width="500">
+<img src="https://github.com/cubicles/aoc2021/thumbnails/aoc3.png" width="500">
 </p>
