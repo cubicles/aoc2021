@@ -1,4 +1,4 @@
-# Day 1
+#Day 1
 
 def part1(input):
     base = 0
